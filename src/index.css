@@ -1,0 +1,14 @@
+body {
+  /*background: #fff8ee;*/
+  background: linear-gradient(#2a2540, #1c1a27);
+  margin: 0;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
